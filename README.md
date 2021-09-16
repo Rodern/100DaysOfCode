@@ -1,2 +1,4 @@
 # 100DaysOfCode
-This repo is for my 100 days of code challenge
+<pre>
+	<p>This repo is for my 100 days of code challenge</p>
+</pre>
